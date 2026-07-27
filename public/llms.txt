@@ -1,0 +1,82 @@
+# Shytest — Generative Engine Optimization Map
+
+> A music creator seeking a portfolio website to showcase their musical works. The desired aesthetic is bold and high-contrast, built on a dark black base with striking contrasting colors — suggesting a dramatic, edgy, and visually intense artistic identity.
+
+---
+
+## Pages
+
+### בית
+https://shytest-fc662bdb.zappy5.app
+גלה עולם מוזיקלי נועז עם Shytest. האזן ליצירות מקוריות דרמטיות, הורד שירים בפורמט MP3, וצלול לסאונד עוצמתי ששובר מוסכמות. התחבר עכשיו לאמנות קולית ייחודית!
+
+### מוזיקה
+https://shytest-fc662bdb.zappy5.app/music
+ספריית יצירות מוזיקליות אפלות ועוצמתיות מחכה לך. מצא מוזיקה חופשית להאזנה, הורד קבצי MP3 איכותיים, וגלה צלילים שלא תשמע בשום מקום אחר. היכנס לקטלוג עכשיו!
+
+### אודות
+https://shytest-fc662bdb.zappy5.app/about
+הכירו את היוצר שמאחורי Shytest – חזון מוזיקלי נועז, תשוקה לסאונד דרמטי, ויצירה שפורצת גבולות. קראו על הסיפור, ההשראה, והדרך לצליל ייחודי. בואו להכיר מקרוב!
+
+### צור קשר
+https://shytest-fc662bdb.zappy5.app/contact
+רוצה לשתף פעולה, להזמין הופעה חיה, או סתם להגיד שלום? צור קשר עם Shytest עכשיו. בוא נבנה יחד חוויה מוזיקלית עוצמתית שתשאיר הד. כתוב לי עוד היום!
+
+### תודה - Shytest
+https://shytest-fc662bdb.zappy5.app/thank-you
+Shytest - תודה - Shytest
+
+## Legal & Policy
+
+### Privacy Policy
+https://shytest-fc662bdb.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://shytest-fc662bdb.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://shytest-fc662bdb.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://shytest-fc662bdb.zappy5.app/contact
+- Endpoint: https://shytest-fc662bdb.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Shytest
+A music creator seeking a portfolio website to showcase their musical works. The desired aesthetic is bold and high-contrast, built on a dark black base with striking contrasting colors — suggesting a dramatic, edgy, and visually intense artistic identity.
+
+## Target Audience
+- חובבי מוזיקה עצמאית
+- בלוגרים ומבקרי מוזיקה
+- תקליטנים בתחנות רדיו באוניברסיטאות
+
+## Industry
+Music
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://shytest-fc662bdb.zappy5.app/sitemap.xml
+- Robots: https://shytest-fc662bdb.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://shytest-fc662bdb.zappy5.app/llms-full.txt
