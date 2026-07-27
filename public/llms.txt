@@ -7,37 +7,37 @@
 ## Pages
 
 ### בית
-https://example.com
+https://shytest.zappy5.app
 גלה עולם מוזיקלי נועז עם Shytest. האזן ליצירות מקוריות דרמטיות, הורד שירים בפורמט MP3, וצלול לסאונד עוצמתי ששובר מוסכמות. התחבר עכשיו לאמנות קולית ייחודית!
 
 ### מוזיקה
-https://example.com/music
+https://shytest.zappy5.app/music
 ספריית יצירות מוזיקליות אפלות ועוצמתיות מחכה לך. מצא מוזיקה חופשית להאזנה, הורד קבצי MP3 איכותיים, וגלה צלילים שלא תשמע בשום מקום אחר. היכנס לקטלוג עכשיו!
 
 ### אודות
-https://example.com/about
+https://shytest.zappy5.app/about
 הכירו את היוצר שמאחורי Shytest – חזון מוזיקלי נועז, תשוקה לסאונד דרמטי, ויצירה שפורצת גבולות. קראו על הסיפור, ההשראה, והדרך לצליל ייחודי. בואו להכיר מקרוב!
 
 ### צור קשר
-https://example.com/contact
+https://shytest.zappy5.app/contact
 רוצה לשתף פעולה, להזמין הופעה חיה, או סתם להגיד שלום? צור קשר עם Shytest עכשיו. בוא נבנה יחד חוויה מוזיקלית עוצמתית שתשאיר הד. כתוב לי עוד היום!
 
 ### תודה - Shytest
-https://example.com/thank-you
+https://shytest.zappy5.app/thank-you
 Shytest - תודה - Shytest
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://shytest.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://shytest.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://shytest.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -47,8 +47,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://example.com/contact
-- Endpoint: https://example.com/api/email/contact-form
+- URL: https://shytest.zappy5.app/contact
+- Endpoint: https://shytest.zappy5.app/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -77,6 +77,6 @@ Music
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Sitemap (XML): https://shytest.zappy5.app/sitemap.xml
+- Robots: https://shytest.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://shytest.zappy5.app/llms-full.txt

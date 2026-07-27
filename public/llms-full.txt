@@ -2,13 +2,13 @@
 
 A music creator seeking a portfolio website to showcase their musical works. The desired aesthetic is bold and high-contrast, built on a dark black base with striking contrasting colors — suggesting a dramatic, edgy, and visually intense artistic identity.
 
-Source: https://example.com
+Source: https://shytest.zappy5.app
 
 ---
 
 ## צליל עוצמתי בחינם — Shytest
 
-URL: https://example.com
+URL: https://shytest.zappy5.app
 Description: גלה עולם מוזיקלי נועז עם Shytest. האזן ליצירות מקוריות דרמטיות, הורד שירים בפורמט MP3, וצלול לסאונד עוצמתי ששובר מוסכמות. התחבר עכשיו לאמנות קולית ייחודית!
 
 צליל עוצמתי בחינם — Shytest
@@ -489,7 +489,7 @@ DJ אורי כהן
 
 ## הורד מוזיקה דרמטית עכשיו — Shytest
 
-URL: https://example.com/music
+URL: https://shytest.zappy5.app/music
 Description: ספריית יצירות מוזיקליות אפלות ועוצמתיות מחכה לך. מצא מוזיקה חופשית להאזנה, הורד קבצי MP3 איכותיים, וגלה צלילים שלא תשמע בשום מקום אחר. היכנס לקטלוג עכשיו!
 
 הורד מוזיקה דרמטית עכשיו — Shytest
@@ -920,7 +920,7 @@ Description: ספריית יצירות מוזיקליות אפלות ועוצמ�
 
 ## האמן מאחורי הסאונד הפרוע — Shytest
 
-URL: https://example.com/about
+URL: https://shytest.zappy5.app/about
 Description: הכירו את היוצר שמאחורי Shytest – חזון מוזיקלי נועז, תשוקה לסאונד דרמטי, ויצירה שפורצת גבולות. קראו על הסיפור, ההשראה, והדרך לצליל ייחודי. בואו להכיר מקרוב!
 
 האמן מאחורי הסאונד הפרוע — Shytest
@@ -1323,7 +1323,7 @@ Description: הכירו את היוצר שמאחורי Shytest – חזון מו
 
 ## צור סאונד משותף איתי — Shytest
 
-URL: https://example.com/contact
+URL: https://shytest.zappy5.app/contact
 Description: רוצה לשתף פעולה, להזמין הופעה חיה, או סתם להגיד שלום? צור קשר עם Shytest עכשיו. בוא נבנה יחד חוויה מוזיקלית עוצמתית שתשאיר הד. כתוב לי עוד היום!
 
 צור סאונד משותף איתי — Shytest
@@ -1693,7 +1693,7 @@ Shytest תמיד פתוח לשיתופי פעולה מוזיקליים מעני�
 
 ## מדיניות פרטיות
 
-URL: https://example.com/privacy
+URL: https://shytest.zappy5.app/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -1953,7 +1953,7 @@ Shytest ("החברה", "אנו", "שלנו") מחויבת להגן על פרטי
 
 ## הצהרת נגישות
 
-URL: https://example.com/accessibility
+URL: https://shytest.zappy5.app/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -2222,7 +2222,7 @@ Shytest מחויבת להנגיש את השירותים לכלל הציבור. �
 
 ## תנאי שימוש
 
-URL: https://example.com/terms
+URL: https://shytest.zappy5.app/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
@@ -2510,7 +2510,7 @@ Shytest מספקת Music דרך האתר. השירותים כפופים לתנא
 
 ## תודה - Shytest
 
-URL: https://example.com/thank-you
+URL: https://shytest.zappy5.app/thank-you
 Description: Shytest - תודה - Shytest
 
 תודה - Shytest
